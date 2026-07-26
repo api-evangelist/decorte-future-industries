@@ -1,8 +1,29 @@
 aid: decorte-future-industries
 name: Decorte Future Industries
-description: Decorte Future Industries is a company surfaced as a portfolio company of techstars and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Decorte Future Industries (DFI) is a UK healthtech company building AI that
+  extracts clinical health signals from sound. Its technology turns the
+  microphone in an ordinary smartphone into a screening device, analyzing audio
+  to detect signs of heart, breathing, brain, and gut conditions at a standard
+  targeting in-clinic specialist examinations. DFI's first commercial product,
+  Sonus Health, is a veterinary heart-screening platform: clinics and pet owners
+  record 30 seconds of heart sound from dogs (cats and horses coming soon) with a
+  phone, and AI returns heart rate, heart rate variability, murmur detection, and
+  a composite Heart Health Score in seconds, with a full report reviewed by a
+  board-certified veterinary cardiologist within 48 hours. Sonus Health ships as
+  iOS and Android apps for pet owners and a web dashboard for veterinary clinics.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://decorte.co.uk/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/decorte-future-industries/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- HealthTech
+- Artificial Intelligence
+- Diagnostics
+- Veterinary
+- Digital Health
+- Audio Analysis
+- Mobile
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +51,31 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://decortefutureindustries.com/
+  url: https://decorte.co.uk/
+- type: Blog
+  url: https://decorte.co.uk/news
+- type: Support
+  url: mailto:support@sonus.health
+- type: SignUp
+  url: https://app.sonus.health/auth/entry
+- type: Login
+  url: https://app.sonus.health/auth/entry
+- type: Pricing
+  url: https://www.sonus.health/pricing
+- type: TermsOfService
+  url: https://www.sonus.health/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.sonus.health/privacy-policy
+- type: LLMsTxt
+  url: https://raw.githubusercontent.com/api-evangelist/decorte-future-industries/refs/heads/main/llms/decorte-future-industries-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/decorte-future-industries/
+- type: Twitter
+  url: https://x.com/DecorteFuture
+- type: DomainSecurity
+  url: https://raw.githubusercontent.com/api-evangelist/decorte-future-industries/refs/heads/main/security/decorte-future-industries-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

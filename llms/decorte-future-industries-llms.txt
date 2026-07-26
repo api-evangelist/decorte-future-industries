@@ -1,0 +1,44 @@
+# Sonus Health
+
+> Sonus Health is a veterinary heart screening platform. Veterinary clinics and pet owners use a smartphone to record heart sounds from dogs, cats, and horses. AI analysis returns heart rate, HRV, and murmur detection in seconds. Full reports are reviewed by board-certified veterinary cardiologists and returned within 48 hours.
+
+Sonus Health is built by Decorte Future Industries (DFI). The platform is available as a mobile app for pet owners (iOS and Android) and a web dashboard for veterinary clinics.
+
+## How it works
+
+1. **Record** — Place any smartphone against the animal's chest for 30 seconds.
+2. **AI Analysis** — Heart rate, heart rate variability, and murmurs are detected in seconds.
+3. **Expert Review** — A diplomate veterinary cardiologist reviews the recording and returns a full report within 48 hours. Automated follow-up workflows notify owners and clinics.
+
+## What's measured
+
+- Heart rate (beat-by-beat)
+- Heart rate variability (HRV)
+- Heart murmurs (detection, timing, intensity — e.g. systolic/diastolic, grade)
+- Arrhythmias (rhythm irregularities, ectopic beats, gallop rhythms)
+- Stress and pain indicators
+- Heart Health Score (composite 1–10 rating)
+
+## Species supported
+
+- Dogs (fully supported)
+- Cats (coming soon)
+- Horses (coming soon)
+
+## Who it's for
+
+- **Veterinary clinics** — Cardiac screening during routine consultations without specialist equipment. Register at https://www.sonus.health
+- **Pet owners** — Download the free app to record and track your pet's heart health. Available on the App Store and Google Play.
+
+## Pricing
+
+- New clinics receive 7 free scans on signup.
+- After that, scans are available through flexible credit bundles or monthly subscriptions.
+- Contact support@sonus.health for volume pricing.
+
+## Links
+
+- [Website](https://www.sonus.health)
+- [App Store](https://apps.apple.com/gb/app/id6740530501)
+- [Google Play](https://play.google.com/store/apps/details?id=com.dfi.DfiSonusApp)
+- [Contact](mailto:support@sonus.health)
