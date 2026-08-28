@@ -12,6 +12,17 @@ description: >-
   a composite Heart Health Score in seconds, with a full report reviewed by a
   board-certified veterinary cardiologist within 48 hours. Sonus Health ships as
   iOS and Android apps for pet owners and a web dashboard for veterinary clinics.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
