@@ -1,0 +1,27 @@
+# Front Door AI Index — decorte-future-industries — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: decorte-future-industries
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: decorte.co.uk
+  final_host: decorte.co.uk
+  ownership: own
+  owner: decorte-future-industries
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 22
+  host_score: 22
+  density: 24.1
+  words: 913
+  tiers:
+    agentic: 0
+    core: 21
+    model: 1
+  ambiguous: 0
+  top_terms:
+    AI: 20
+    OpenAI: 1
+    generative ai: 1
