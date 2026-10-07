@@ -1,0 +1,44 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.sonus.health/pricing
+sources:
+- https://www.sonus.health/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-call
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Starter
+published: true
+note: Credit-based pay-as-you-go pricing for veterinary cardiac scanning; 30 credits per scan, 700 credits
+  per specialist report; 1,000 free credits at signup. No contracts or subscriptions.
+plan_count: 3
+currency: USD
+plans:
+- name: Starter
+  price_text: $195 per top-up
+  price: 195
+  currency: USD
+  period: per-use
+  unit: top-up
+  included_quota: ~90 heart scans, ~3 specialist reports, 7.22¢ per credit
+- name: Growth
+  price_text: $455 per top-up
+  price: 455
+  currency: USD
+  period: per-use
+  unit: top-up
+  included_quota: ~256 heart scans, ~11 specialist reports, 5.91¢ per credit
+- name: Scale
+  price_text: $910 per top-up
+  price: 910
+  currency: USD
+  period: per-use
+  unit: top-up
+  included_quota: ~653 heart scans, ~28 specialist reports, 4.64¢ per credit
