@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Decorte Future Industries is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Decorte Future Industries (DFI) is a UK healthtech company building AI that extracts clinical health signals from sound. Its technology turns the microphone in an ordinary smartphone into a screening device, analyzing audio to detect signs of heart, breathing, brain, and gut conditions at a standard targeting in-clinic specialist examinations. DFI's first commercial product, Sonus Health, is a veterinary heart-screening platform: clinics and pet owners record 30 seconds of heart sound from dogs (cats and horses coming soon) with a phone, and AI returns heart rate, heart rate variability, murmur detection, and a composite Heart Health Score in seconds, with a full report reviewed by a board-certified veterinary cardiologist within 48 hours. Sonus Health ships as iOS and Android apps for pet owners and a web dashboard for veterinary clinics.
 
-Backed by: techstars — https://decortefutureindustries.com/
+**Areas:** Company · Health Tech · Artificial Intelligence · Diagnostics · Veterinary · Digital Health · Audio Analysis · Mobile
+
+## Decorte Future Industries on APIs.io
+
+Everything profiled for Decorte Future Industries is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/decorte-future-industries/](https://apis.io/providers/decorte-future-industries/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Decorte Future Industries Domain Security](https://apis.io/security/decorte-future-industries/decorte-future-industries-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Decorte Future Industries Plans Pricing](https://apis.io/plans/decorte-future-industries/decorte-future-industries-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://decorte.co.uk/)
+- [Pricing](https://www.sonus.health/pricing)
+- [Sign up](https://app.sonus.health/auth/entry)
+- [Blog](https://decorte.co.uk/news)
+- [Terms of service](https://www.sonus.health/terms-of-service)
+- [Privacy policy](https://www.sonus.health/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 21.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 76.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/decorte-future-industries/](https://apis.io/providers/decorte-future-industries/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Decorte Future Industries: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/decorte-future-industries/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
